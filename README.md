@@ -1,5 +1,9 @@
 # Password-Manager-GUI
 
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/portoduque/Password-Manager-GUI/blob/main/LICENSE) for more information.
+
 ## Contributing
 
 1. **Fork** the repo on GitHub
