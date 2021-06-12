@@ -1,5 +1,10 @@
 # Password-Manager-GUI
 
+## Contact
+Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
+
+Project Link: [https://github.com/portoduque/Password-Manager-GUI](https://github.com/portoduque/Password-Manager-GUI)
+
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/portoduque/Password-Manager-GUI/blob/main/LICENSE) for more information.
