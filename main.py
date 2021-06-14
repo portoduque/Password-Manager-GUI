@@ -121,7 +121,6 @@ website_input.focus()
 
 username_input = Entry(width=45)
 username_input.grid(column=1, row=2, columnspan=2)
-username_input.insert(0, "portoduque@outlook.com")
 
 password_input = Entry(width=27)
 password_input.grid(column=1, row=3)
