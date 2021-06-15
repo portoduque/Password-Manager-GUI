@@ -1,4 +1,5 @@
-# Password-Manager-GUI
+![Password Manager](https://user-images.githubusercontent.com/37813839/122097330-f06fdd80-cde5-11eb-9b29-e22f64a40975.png)
+
 
 ## About
 This project is a Password Manager, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to generate a strong password and save your login details in a json file.
