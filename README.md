@@ -1,5 +1,8 @@
 # Password-Manager-GUI
 
+## About
+This project is a Password Manager, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to generate a strong password and save your login details in a json file.
+
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
 
