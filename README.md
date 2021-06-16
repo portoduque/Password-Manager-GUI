@@ -4,6 +4,11 @@
 ## About
 This project is a Password Manager, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to generate a strong password and save your login details in a json file.
 
+# Usage Example
+### Add
+![add](https://user-images.githubusercontent.com/37813839/122238621-a98df080-ce96-11eb-8850-8901801e72e3.gif)
+
+
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
 
