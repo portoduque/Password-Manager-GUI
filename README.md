@@ -8,6 +8,9 @@ This project is a Password Manager, using Graphical User Interface (GUI) and Tki
 ### Add
 ![add](https://user-images.githubusercontent.com/37813839/122238621-a98df080-ce96-11eb-8850-8901801e72e3.gif)
 
+### Search
+![search](https://user-images.githubusercontent.com/37813839/122413124-862d7900-cf5c-11eb-89da-323d5bd02dd2.gif)
+
 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
